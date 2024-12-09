@@ -1,0 +1,2 @@
+Setup Instructions: Make sure all the required libraries are installed(can be installed through pip). As long as the environment can install all required libraries annd it can also run jupyter notebook files, there shouldn't require any other installation or setup. The OpenWeatherAPI usage should have the IP setting be open publicly.
+Executing Code: Make sure all cells in the jupyter notebook file is executed and the program should run without any issues.
